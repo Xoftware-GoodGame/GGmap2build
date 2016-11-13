@@ -1,0 +1,124 @@
+LIGHT:-border,0
+LIGHT:-bouncegrid,0
+LIGHT:-cheap,0
+LIGHT:-cheapgrid,0
+LIGHT:-cpma,0
+LIGHT:-custinfoparms,0
+LIGHT:-dark,0
+LIGHT:-debug,0
+LIGHT:-debugaxis,0
+LIGHT:-debugcluster,0
+LIGHT:-debugdeluxe,0
+LIGHT:-debugorigin,0
+LIGHT:-debugsurfaces,0
+LIGHT:-debugunused,0
+LIGHT:-deluxe,0
+LIGHT:-dirt,0
+LIGHT:-dirtdebug,0
+LIGHT:-dump,0
+LIGHT:-export,0
+LIGHT:-extra,0
+LIGHT:-extrawide,0
+LIGHT:-fast,0
+LIGHT:-faster,0
+LIGHT:-fastbounce,0
+LIGHT:-fastgrid,0
+LIGHT:-filter,0
+LIGHT:-import,0
+LIGHT:-nocollapse,0
+LIGHT:-nogrid,0
+LIGHT:-normalmap,0
+LIGHT:-nosurf,0
+LIGHT:-notrace,0
+LIGHT:-novertex,0
+LIGHT:-patchshadows,0
+LIGHT:-shade,0
+LIGHT:-sunonly,0
+LIGHT:-trisoup,0
+LIGHT:-v,0
+LIGHT:-wolf,0
+LIGHT: ,0
+LIGHT:-approx %t,0
+LIGHT:-areascale %t,0
+LIGHT:-bounce %t,0
+LIGHT:-bouncescale %t,0
+LIGHT:-compensate %t,0
+LIGHT:-dirtmode %t,0
+LIGHT:-dirtdepth %t,0
+LIGHT:-dirtscale %t,0
+LIGHT:-dirtgain %t,0
+LIGHT:-gamma %t,0
+LIGHT:-pointscale %t,0
+LIGHT:-samplesize %t,0
+LIGHT:-lightmapsize %t,0
+LIGHT:-samples %t,0
+LIGHT:-scale %t,0
+LIGHT:-shadeangle %t,0
+LIGHT:-super %t,0
+LIGHT:-threads %t,0
+LIGHT:-thresh %t,0
+LIGHT:-connect %t,0
+LIGHT:txt-approx %t,0
+LIGHT:txt-areascale %t,1.0
+LIGHT:txt-bounce %t,0
+LIGHT:txt-bouncescale %t,1.0
+LIGHT:txt-compensate %t,1.0
+LIGHT:txt-dirtmode %t,0
+LIGHT:txt-dirtdepth %t,0
+LIGHT:txt-dirtscale %t,0
+LIGHT:txt-dirtgain %t,0
+LIGHT:txt-gamma %t,1.0
+LIGHT:txt-pointscale %t,1.0
+LIGHT:txt-samplesize %t,16
+LIGHT:txt-lightmapsize %t,128
+LIGHT:txt-samples %t,0
+LIGHT:txt-scale %t,1.0
+LIGHT:txt-shadeangle %t,0
+LIGHT:txt-super %t,0
+LIGHT:txt-threads %t,0
+LIGHT:txt-thresh %t,1.0
+LIGHT:txt-connect %t,host:ip
+GAME :+set bot_enable 1,1
+GAME :+set sv_pure 0,1
+GAME :+set r_vertexlight %i,0
+GAME :+set r_fullscreen %i,0
+GAME :+set logfile 3,0
+GAME :+set r_fastsky 0,1
+GAME :+set bot_developer %i,0
+GAME :+set bot_debug %i,0
+GAME :+set developer 1,0
+GAME :+set dedicated 1,0
+GAME :+set g_debugdoor 1,0
+GAME :+set g_debugitems 1,0
+GAME :+set r_overbrightbits %t,0
+GAME :+set r_mapoverbrightbits %t,0
+GAME :+set r_mode %t,0
+GAME :+set r_gamma %t,0
+GAME :+set r_picmip %t,0
+GAME :+set vm_game %t,0
+GAME :+set vm_cgame %t,0
+GAME :+set vm_ui %t,0
+GAME :+set g_gametype %t,0
+GAME :+set g_wf_warmup %t,1
+GAME :+set fs_game %t,1
+GAME :+set fs_basegame %t,1
+GAME :+set com_hunkmegs %t,0
+GAME :+set com_zonemegs %t,0
+GAME :+set com_soundmegs %t,0
+GAME :+set r_start %t,0
+GAME :txt+set r_overbrightbits %t,2
+GAME :txt+set r_mapoverbrightbits %t,1
+GAME :txt+set r_mode %t,4
+GAME :txt+set r_gamma %t,1
+GAME :txt+set r_picmip %t,1
+GAME :txt+set vm_game %t,2
+GAME :txt+set vm_cgame %t,2
+GAME :txt+set vm_ui %t,2
+GAME :txt+set g_gametype %t,0
+GAME :txt+set g_wf_warmup %t,0
+GAME :txt+set fs_game %t,InstaUnlagged
+GAME :txt+set fs_basegame %t,baseX3
+GAME :txt+set com_hunkmegs %t,90
+GAME :txt+set com_zonemegs %t,12
+GAME :txt+set com_soundmegs %t,12
+GAME :txt+set r_start %t,

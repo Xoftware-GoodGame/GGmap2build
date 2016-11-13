@@ -1,0 +1,4 @@
+"C:\Program Files (x86)\Xuake-III-arenA\tools\netradiant-1.5.0-20120301\q3map2.exe" -fs_basepath "C:\Program Files (x86)\Xuake-III-arenA" -fs_game "basex3" "C:\Program Files (x86)\Xuake-III-arenA\baseX3\maps\new17-WIP.map"
+"C:\Program Files (x86)\Xuake-III-arenA\tools\netradiant-1.5.0-20120301\q3map2.exe" -fs_basepath "C:\Program Files (x86)\Xuake-III-arenA" -fs_game "basex3" -vis "C:\Program Files (x86)\Xuake-III-arenA\baseX3\maps\new17-WIP.map"
+"C:\Program Files (x86)\Xuake-III-arenA\tools\netradiant-1.5.0-20120301\q3map2.exe" -fs_basepath "C:\Program Files (x86)\Xuake-III-arenA" -fs_game "basex3" -light -v "C:\Program Files (x86)\Xuake-III-arenA\baseX3\maps\new17-WIP.map"
+"C:\Program Files (x86)\Xuake-III-arenA\tools\netradiant-1.5.0-20120301\bspc.exe" -bsp2aas "C:\Program Files (x86)\Xuake-III-arenA\baseX3\maps\new17-WIP.bsp"
